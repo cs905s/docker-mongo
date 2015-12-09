@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+
 MAINTAINER Divya Mahajan <divya.mahajan@outlook.com>
 LABEL description="Mongo database with a host volume. See http://github.com/cs905s/docker/mongo-with-data-volume."
 
